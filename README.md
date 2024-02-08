@@ -29,10 +29,7 @@ Selection, Bubble, Insertion, Merge, Quick, Heap, Counting, Even Odd, Radix Sort
 
 
 
-Time and Space Complexitites:
-
-
-Sure, here are the time and space complexities for the sorting algorithms implemented in your code:
+Time and Space Complexitites Analysis :
 
 Selection Sort:
 Time Complexity: O(n^2)
